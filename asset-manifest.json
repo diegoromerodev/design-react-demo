@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/design-react-demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/design-react-demo/static/js/main.ad2a4065.chunk.js",
+    "main.js.map": "/design-react-demo/static/js/main.ad2a4065.chunk.js.map",
+    "runtime-main.js": "/design-react-demo/static/js/runtime-main.8471f638.js",
+    "runtime-main.js.map": "/design-react-demo/static/js/runtime-main.8471f638.js.map",
+    "static/js/2.add77c05.chunk.js": "/design-react-demo/static/js/2.add77c05.chunk.js",
+    "static/js/2.add77c05.chunk.js.map": "/design-react-demo/static/js/2.add77c05.chunk.js.map",
+    "static/js/3.906358e8.chunk.js": "/design-react-demo/static/js/3.906358e8.chunk.js",
+    "static/js/3.906358e8.chunk.js.map": "/design-react-demo/static/js/3.906358e8.chunk.js.map",
+    "index.html": "/design-react-demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/design-react-demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.add77c05.chunk.js.LICENSE.txt": "/design-react-demo/static/js/2.add77c05.chunk.js.LICENSE.txt",
+    "static/media/heroimg.jpg": "/design-react-demo/static/media/heroimg.cbd5ea7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8471f638.js",
+    "static/js/2.add77c05.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ad2a4065.chunk.js"
+  ]
+}
